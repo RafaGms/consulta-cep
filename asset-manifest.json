@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c78b14d.css",
+    "main.js": "/static/js/main.400b5b93.js",
+    "static/media/Address-cuate.png": "/static/media/Address-cuate.352a178a480aecedb9d4.png",
+    "index.html": "/index.html",
+    "main.5c78b14d.css.map": "/static/css/main.5c78b14d.css.map",
+    "main.400b5b93.js.map": "/static/js/main.400b5b93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c78b14d.css",
+    "static/js/main.400b5b93.js"
+  ]
+}
