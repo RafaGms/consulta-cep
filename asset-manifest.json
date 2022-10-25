@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c78b14d.css",
-    "main.js": "/static/js/main.400b5b93.js",
-    "static/media/Address-cuate.png": "/static/media/Address-cuate.352a178a480aecedb9d4.png",
-    "index.html": "/index.html",
-    "main.5c78b14d.css.map": "/static/css/main.5c78b14d.css.map",
-    "main.400b5b93.js.map": "/static/js/main.400b5b93.js.map"
+    "main.css": "/consulta-cep/static/css/main.5c78b14d.css",
+    "main.js": "/consulta-cep/static/js/main.4deb5cbf.js",
+    "static/media/Address-cuate.png": "/consulta-cep/static/media/Address-cuate.352a178a480aecedb9d4.png",
+    "index.html": "/consulta-cep/index.html",
+    "main.5c78b14d.css.map": "/consulta-cep/static/css/main.5c78b14d.css.map",
+    "main.4deb5cbf.js.map": "/consulta-cep/static/js/main.4deb5cbf.js.map"
   },
   "entrypoints": [
     "static/css/main.5c78b14d.css",
-    "static/js/main.400b5b93.js"
+    "static/js/main.4deb5cbf.js"
   ]
 }
